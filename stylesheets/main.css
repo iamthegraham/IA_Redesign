@@ -1,0 +1,50 @@
+h1 {
+text-align:center;
+}
+
+h2 {
+text-align:center;
+}
+
+.caption {
+text-align:center;
+font-style:italic;
+}
+
+.imagic {
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
+
+.bodypara {
+
+margin-left:auto;
+margin-right:auto;
+width:80%;
+
+}
+.tablecontainer {
+display:block;
+margin-left:122px;
+margin-right:auto;
+}
+
+.navtable {
+border:2px solid black;
+}
+
+.userpic {
+width:400px;}
+
+.users {
+width:80%;
+}
+
+.bold td{
+font-weight:bold;
+}
+
+td {
+border:1px solid black;
+}
